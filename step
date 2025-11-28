@@ -1,0 +1,8 @@
+open git bash
+
+then specify name and e-mail address by using 
+   git config --global user.name "Amith V"
+   git config --global user.email amith007v@gmail.com
+
+set the default branch name to "main" for new repositories that are created
+  git config --global init.defaultBranch main
