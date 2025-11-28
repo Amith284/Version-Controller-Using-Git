@@ -6,3 +6,12 @@ then specify name and e-mail address by using
 
 set the default branch name to "main" for new repositories that are created
   git config --global init.defaultBranch main
+
+then go to the desired file
+   cd filename
+
+then initilise the file
+   git init
+
+then we check the status
+ git status
