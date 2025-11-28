@@ -27,4 +27,10 @@ then check the status again
 then create a .gitignore in the folder
 
 then we commit the files
-   git commit
+   git commit -m "message"
+
+then check the status again
+
+if there is a change in a file then
+   git diff 
+will show us what the difference is
