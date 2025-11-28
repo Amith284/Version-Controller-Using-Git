@@ -23,3 +23,8 @@ to remove a tracked file
 git add . = adds all files
 
 then check the status again
+
+then create a .gitignore in the folder
+
+then we commit the files
+   git commit
