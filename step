@@ -14,4 +14,11 @@ then initilise the file
    git init
 
 then we check the status
- git status
+   git status
+
+then we track the files in the folder
+   git add file.name
+to remove a tracked file
+   git rm --cached file.name
+
+then check the status again
